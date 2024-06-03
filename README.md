@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://your-banner-url.com/banner.jpg](https://media.licdn.com/dms/image/D5616AQEVqHixiScx7Q/profile-displaybackgroundimage-shrink_350_1400/0/1707091989547?e=1723075200&v=beta&t=RMmm5Tks1ykrtx8UOI44jaqSHG7Bj-S8yHI6OjrUkAY)" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm MD. Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
